@@ -1,6 +1,6 @@
 # Sistema Bancário em Python
 
-Este é um projeto de sistema bancário desenvolvido em Python que utiliza conceitos de programação orientada a objetos, como herança, polimorfismo e classes abstratas. [citation:6][citation:3]
+Este é um projeto de sistema bancário desenvolvido em Python que utiliza conceitos de programação orientada a objetos, como herança, polimorfismo e classes abstratas. 
 
 ## Funcionalidades
 
